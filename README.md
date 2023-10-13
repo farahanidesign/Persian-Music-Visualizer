@@ -1,1 +1,1 @@
-# Persian-Music-Visualizerion
+# Persian-Music-Visualizer
